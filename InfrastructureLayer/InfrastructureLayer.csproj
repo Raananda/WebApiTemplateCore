@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Interfaces\BusinessLogic\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>
