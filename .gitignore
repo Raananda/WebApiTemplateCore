@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs
+/BusinessLogicLayer/obj
+/BusinessLogicLayer/bin
+/DataAccessLayer/bin
+/DataAccessLayer/obj
+/InfrastructureLayer/bin
+/InfrastructureLayer/obj
+/WebApiTemplateCore/obj
+/WebApiTemplateCore/bin
+/WebApiTemplateCore/Log/history
+/WebApiTemplateCore/Log/log.json
+/WebApiTemplateCore/Log/log.txt
